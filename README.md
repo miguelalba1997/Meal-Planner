@@ -1,2 +1,2 @@
 # Meal-Planner
-This is a fun project I worked on a while ago. It is a basic meal planning program that is based on the IFFYM diet. It has a few bugs like not always giving the right amount giving the calorie input.
+This is a fun project I worked on a while ago. It's basically a way to get people in better shape by taking the guesswork out of meal planning and cardio planning. In this project i have a basic meal planning program that is based on the IFFYM diet.It has a few bugs like not always giving the right amount giving the calorie input. I also have a program that calculates how much cardio to do in order aide in fat loss.
