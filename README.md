@@ -3,3 +3,5 @@ This is a fun project I worked on a while ago. It's basically a way to get peopl
 
 The Linux folder contains the Application packages for the linux platform version of this app. All you should need to do to run it 
 is to navigate into the directory titled "linux" and find the executable titled "helloworld" and launch it using ./
+if that doesnt work try making sure you have the correct packages installed on your system by following these instructions:
+https://briefcase.readthedocs.io/en/latest/tutorial/getting-started.html
